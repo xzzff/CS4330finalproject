@@ -7,7 +7,7 @@
 
 ## Comparsion between Java and C++
 
-#Language purpose/genesis
+* Language purpose/genesis
 * Unique features of the language
 * Name spaces
 * Types 
