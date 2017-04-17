@@ -1,13 +1,9 @@
 # CS43330  final project
 ## Group member
-### Yudong Xiang 
-### Boyan Zhang
-### Xiaofeng Zheng
-### hanyu liang
-
+### Yudong Xiang, Boyan Zhang, Xiaofeng Zheng,hanyu liang
 ## Comparsion between Java and C++
 
-* Language purpose/genesis
+* [Language purpose/genesis](https://github.com/hentai27/CS4330finalproject/blob/master/Language%20purpose.md)
 * Unique features of the language
 * Name spaces
 * Types 
