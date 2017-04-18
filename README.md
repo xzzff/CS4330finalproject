@@ -4,10 +4,10 @@
 ## Comparsion between Java and C++
 
 * [Language purpose/genesis](https://github.com/hentai27/CS4330finalproject/blob/master/Language%20purpose.md) yudong
-* [Unique features of the language](https://github.com/xzzff/CS4330finalproject/blob/master/features.md) xiaofeng
+* [Unique features of the language](https://github.com/hentai27/CS4330finalproject/blob/master/features.md) xiaofeng
 * Name spaces hanyu
 * Types yudong
-* [Classes](https://github.com/xzzff/CS4330finalproject/blob/master/classes.md) xiaofeng
+* [Classes](https://github.com/hentai27/CS4330finalproject/blob/master/classes.md) xiaofeng
 * Instance reference name in data type (class) hanyu
 * Properties yudong
 * Interfaces / protocols xiaofeng
