@@ -10,13 +10,16 @@
 ## C++ classes
 * A class in C++ is a user defined type or data structure declared with keyword class that has data and functions (also called methods) as its members whose access is governed by the three access specifiers private, protected or public (by default access to members of a class is private).
 * A C++ constructor will have exact same name as the class and it does not have any return type at all, not even void. Constructors can be very useful for setting initial values for certain member variables.
-#include <iostream>/n
-using namespace std;/n
-class Line {\n
-   public:\n
-      void setLength( double len );\n
-      double getLength( void );\n
-      Line();  // This is the constructor\n
-   private:\n
-      double length;\n
-};\n
+
+#include <iostream>
+
+using namespace std;
+
+class Line {
+   public:
+      void setLength(double len);
+      double getLength(void);
+      Line();//this is the constructor
+   private:
+      double length;
+};
