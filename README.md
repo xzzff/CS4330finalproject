@@ -13,10 +13,10 @@
 * [Interfaces / protocols](https://github.com/xzzff/CS4330finalproject/blob/master/Interfaces.md) xiaofeng
 * [Inheritance / extension](https://github.com/hentai27/CS4330finalproject/blob/master/Inheritance.md) hanyu
 * [Reflection](https://github.com/hentai27/CS4330finalproject/blob/master/Reflection.md) yudong
-* [Memory management](https://github.com/xzzff/CS4330finalproject/blob/master/Memory_management.md) xiafeng
+* [Memory management](https://github.com/xzzff/CS4330finalproject/blob/master/Memory_management.md) xiaofeng
 * [Comparisons of references and values](https://github.com/hentai27/CS4330finalproject/blob/master/Reference_values.md) hanyu
 * [Null/nil references](https://github.com/hentai27/CS4330finalproject/blob/master/Null_references.md) yudong
-* [Errors and exception](https://github.com/xzzff/CS4330finalproject/blob/master/Errors_exception.md) handling xiaofeng
+* [Errors and exception_handling](https://github.com/xzzff/CS4330finalproject/blob/master/Errors_exception.md) xiaofeng
 * [Lambda expressions, closures, or functions as types](https://github.com/hentai27/CS4330finalproject/blob/master/Lambda.md) hanyu
 * [Implementation of listeners and event handlers](https://github.com/hentai27/CS4330finalproject/blob/master/Implementation.md) yudong
 * [Singleton](https://github.com/xzzff/CS4330finalproject/blob/master/Singleton.md) xiaofeng
