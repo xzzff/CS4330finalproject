@@ -11,10 +11,9 @@
 
 * throws – When we are throwing any exception in a method and not handling it, then we need to use throws keyword in method signature to let caller program know the exceptions that might be thrown by the method. The caller method might handle these exceptions or propagate it to it’s caller method using throws keyword. We can provide multiple exceptions in the throws clause and it can be used with main() method also.
 
-   import java.io.*;
-   public class className {
+  
 
-   public void deposit(double amount) throws RemoteException {
+public void deposit(double amount) throws RemoteException {
     // Method implementation
      throw new RemoteException();
    }
