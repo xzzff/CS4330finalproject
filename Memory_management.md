@@ -12,8 +12,7 @@ extern void* operator new(size_t, class Heap&);
 * A smart pointer type is defined as any class type that overloads operator->, operator*, or operator->*.
 * New and Delete operators allocate memory for objects from a pool called the free store.
 * The new operator calls the special function operator new, and the delete operator calls the special function operator delete.
-
-
+```C++
 #include <iostream>
 #include <cstring>
 using namespace std;
@@ -45,3 +44,4 @@ int main()
 
     return 0;
 }
+```
