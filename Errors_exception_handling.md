@@ -8,6 +8,17 @@
 * Java provides specific keywords for exception handling purposes, we will look after them first and then we will write a simple program showing how to use them for exception handling.
 
 * throw – We know that if any exception occurs, an exception object is getting created and then Java runtime starts processing to handle them. Sometime we might want to generate exception explicitly in our code, for example in a user authentication program we should throw exception to client if the password is null. throw keyword is used to throw exception to the runtime to handle it.
+```java
+import java.io.*;
+public class className {
+
+   public void deposit(double amount) throws RemoteException {
+      // Method implementation
+      throw new RemoteException();
+   }
+   // Remainder of class definition
+}
+```
 
 * throws – When we are throwing any exception in a method and not handling it, then we need to use throws keyword in method signature to let caller program know the exceptions that might be thrown by the method. The caller method might handle these exceptions or propagate it to it’s caller method using throws keyword. We can provide multiple exceptions in the throws clause and it can be used with main() method also.
 
@@ -17,18 +28,4 @@
 
 
 ## C++
-// File Name InsufficientFundsException.java
-import java.io.*;
-
-public class InsufficientFundsException extends Exception {
-   private double amount;
-   
-   public InsufficientFundsException(double amount) {
-      this.amount = amount;
-   }
-   
-   public double getAmount() {
-      return amount;
-   }
-}
 
