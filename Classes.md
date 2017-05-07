@@ -14,17 +14,17 @@
 
 ## C++ example
 
-#include <iostream>
+* #include <iostream>
  
-using namespace std;
+* using namespace std;
  
-class Line {
-   public:
-      void setLength( double len );
-      double getLength( void );
-      Line();   // This is the constructor declaration
-      ~Line();  // This is the destructor: declaration
- 
-   private:
-      double length;
-};
+* class Line {
+*  public:
+*     void setLength( double len );
+*     double getLength( void );
+*     Line();   // This is the constructor declaration
+*     ~Line();  // This is the destructor: declaration
+*
+*  private:
+*     double length;
+* };
