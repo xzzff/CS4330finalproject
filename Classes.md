@@ -13,18 +13,19 @@
 * A C++ destructor will have exact same name as the class prefixed with a tilde (~) and it can neither return a value nor can it take any parameters. Destructor can be very useful for releasing resources before coming out of the program like closing files, releasing memories etc.
 
 ## C++ example
-
- #include <iostream>
+```C++
+#include <iostream>
  
-* using namespace std;
+ using namespace std;
  
-* class Line {
-*  public:
-*     void setLength( double len );
-*     double getLength( void );
-*     Line();   // This is the constructor declaration
-*     ~Line();  // This is the destructor: declaration
+ class Line {
+  public:
+     void setLength( double len );
+     double getLength( void );
+     Line();   // This is the constructor declaration
+     ~Line();  // This is the destructor: declaration
 
-*  private:
-*    double length;
-*};
+  private:
+    double length;
+};
+```
