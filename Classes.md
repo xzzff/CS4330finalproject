@@ -14,7 +14,7 @@
 
 ## C++ example
 
-  #include <iostream>
+ #include <iostream>
  
 * using namespace std;
  
@@ -26,5 +26,5 @@
 *     ~Line();  // This is the destructor: declaration
 
 *  private:
-     double length;
- };
+*    double length;
+*};
